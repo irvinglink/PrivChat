@@ -1,0 +1,26 @@
+################################################
+# VARIABLES:                                   #
+# %player_name% -> Player execute the command  #
+# %player_target% -> Target player.            #
+################################################
+Sent_Invitation: "&a&lThe invitation to &6&l%player_target% &a&lhas been sent!"
+Invitation: "&a&lYou have an invitation from &6&l%player_name%&7&l."
+No_Self_Invitation: "&c&lYou can not invite yourself."
+No_Self_Kick: "&c&lYou can not kick your self!"
+Player_Not_Online: "&cThat player is not &aonline&7."
+Chat_Join_Chat: "&a&lThe player &6&l%player_name% &a&lhas joined&7."
+Chat_Leave_Chat: "&c&lThe player &b&l%player_name%&c&l leave from the chat&7&l."
+Chat_Deleted: "&c&lThe chat was deleted!"
+Owner_Leave: "&c&lYou can not leave from the chat you are the owner."
+Player_Leave: "&a&lYou successfully left from the chat!"
+Player_Not_In_Chat: "&cThat player is not in your &bchat&7."
+Player_In_Chat: "&c&lYou already in a chat!"
+Player_Kick: "&cThe player &b%player_target% &cwas kicked from the chat&7."
+Silent_Mode_Join: "&a&lYou successfully joined to the chat in &c&lsilent mode&a&l!"
+No_Chat: "&cYou are not in a &bchat&7."
+No_Chat_Owner: "&cYou are not the &aowner &cof the chat&7."
+No_Invitations: "&cYou do not have invitations&7."
+No_Invitation_From: "&cYou do not have an invitation from &b%player_target%&7."
+Disable_Chat: "&c&lChat disabled!"
+Enable_Chat: "&a&lChat enabled!"
+Unknown_Chat: "&cThat command does not exists!"
